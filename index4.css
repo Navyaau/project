@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:beige;
+}
+
+img{
+    border-radius: 60%;
+}
+
+.one{
+    margin-top: 50px;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+}
+
+.main{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 100px;
+}
+
+.five{
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.six{
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+    padding-left: 250px;
+}
+
+.one span{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 100px;
+}
